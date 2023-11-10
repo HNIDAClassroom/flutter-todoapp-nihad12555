@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69207647544",
+    "project_id": "taskapp-3fbec",
+    "storage_bucket": "taskapp-3fbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69207647544:android:52a32a3ec2de2289eb0dcd",
+        "android_client_info": {
+          "package_name": "com.example.todolist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0G_qQX8xRanAgiZtdvIiqOCTf0-julQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
